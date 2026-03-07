@@ -1,4 +1,4 @@
-# Free Open-Source Validator Library: Spam Email Detection API (SEDA)
+# Spam Email Detection API (SEDA) : Free Open-Source Validator Library
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red) ![Performance](https://img.shields.io/badge/Speed-Blazing%20Fast-blue) ![Privacy](https://img.shields.io/badge/Privacy-First-green) ![Platform](https://img.shields.io/badge/Platform-Cloudflare%20Workers-orange)
 
 Welcome to **SEDA**, the fastest and most secure **Free Open-Source Validator Library** built for modern web applications. Protect your application from malicious signups, unwanted bot registrations, and disposable incoming mail today—without compromising user privacy.
