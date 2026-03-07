@@ -25,7 +25,7 @@ Getting started with our Free Open-Source Validator Library is incredibly simple
 
 **Example Request:**
 ```bash
-curl "https://your-worker-domain.workers.dev/api/check?email=test@0-mail.com"
+curl "https://spam-email-detection-api.solvcraft.workers.dev/api/check?email=test@0-mail.com"
 ```
 
 **Example Response:**
